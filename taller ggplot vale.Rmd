@@ -60,7 +60,7 @@ output:
 
 #Directorio
 
-setwd("C:/Users/nselame/OneDrive - Universidad Católica de Chile/Ambiente R/taller_vale")
+setwd("C:/Users/nselame/Documents/GitHub/taller_ggplot_beneficio")
 ```
 
 ```{r pac y base, warning=FALSE, message = FALSE}
